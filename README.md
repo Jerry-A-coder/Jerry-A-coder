@@ -1,4 +1,4 @@
-’m Jerry Godwin A, a B.Sc. Artificial Intelligence & Machine Learning student passionate about building intelligent, practical, and user-focused technology solutions.
+I’m Jerry Godwin A, a B.Sc. Artificial Intelligence & Machine Learning student passionate about building intelligent, practical, and user-focused technology solutions.
 
 I work with Python, Java, C++, JavaScript, React, FastAPI, SQL, MongoDB, and Machine Learning, with a growing focus on Generative AI, AI Agents, RAG, Computer Vision, and Data Science.
 
